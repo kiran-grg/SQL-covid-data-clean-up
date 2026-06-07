@@ -19,7 +19,7 @@ This project explores global COVID-19 data using SQL Server to identify trends i
 - Vaccination progress over time
 
 ## Conclusion
-Through this analysis several key insights were identified regarding the global impact of COVID-19. the project revealed significant diffrences in infection rates, death counts and vaccination progress across countires and regions. Using SQL server, large datasets were transformed into meaningful information through aggregation, trend analysis and rolling calcualtion.
+Through this analysis several key insights were identified regarding the global impact of COVID-19. The project revealed significant diffrences in infection rates, death counts and vaccination progress across countires and regions. Using SQL server, large datasets were transformed into meaningful information through aggregation, trend analysis and rolling calcualtion.
 
 ## Tools Used
 - SQL Server
